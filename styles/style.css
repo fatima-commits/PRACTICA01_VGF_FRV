@@ -1,6 +1,9 @@
 h1 {
-color: red;
+color: rgb(248, 232, 0);
 }
 p {
 color:blue;
+}
+table {
+background-color: lightblue;
 }
